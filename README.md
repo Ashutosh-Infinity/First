@@ -1,4 +1,4 @@
 # First
-My first repository.
+My first git repository.
 <br>
 Author - Ashutosh Yadav
